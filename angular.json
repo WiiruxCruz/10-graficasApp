@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "graficasApp"
+    }
+  },
+  "defaultProject": "graficasApp",
+  "cli": {
+    "analytics": "50218a42-ca99-468a-96ee-6b7afb78fcec"
+  }
 }
