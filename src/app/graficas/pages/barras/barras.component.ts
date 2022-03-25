@@ -3,7 +3,7 @@ import { ChartConfiguration, ChartDataSets, ChartType } from 'chart.js';
 import { Label } from 'ng2-charts';
 
 @Component({
-  selector: 'app-grafica-barra',
+  selector: 'app-barras',
   templateUrl: './barras.component.html',
   styles: [
   ]
